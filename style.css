@@ -1,0 +1,25 @@
+body {
+    background-color: #e9dfd2;
+}
+
+#myName {
+    text-align: center;
+}
+
+#maes-hlink {
+    color: green;
+    text-decoration: none;
+}
+
+#z4p-hlink {
+    text-decoration: none;
+}
+
+#contact-me {
+    margin-top: 200px;
+    text-align: center;
+}
+
+.contact-images {
+    height: 50px;
+}
