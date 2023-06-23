@@ -16,6 +16,10 @@ body {
     text-decoration: none;
 }
 
+#resume-image{
+    height: 45px;
+}
+
 #contact-me {
     margin-top: 200px;
     text-align: center;
